@@ -1,0 +1,22 @@
+{
+  "name": "uvu-test-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavms/uvu-test-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavms/uvu-test-playground/issues"
+  },
+  "homepage": "https://github.com/madhavms/uvu-test-playground#readme",
+  "dependencies": {
+    "uvu": "^0.5.6"
+  }
+}
